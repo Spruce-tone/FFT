@@ -2,6 +2,8 @@
 
 This repository is a pthon tutorial on scalar diffraction theory, and it is based on the book `Computational Fourier Optics: A MATLAB Tutorial" by David Voelz`
 
+![Airy disk](./images/Airy_disk.PNG)  
+
 # Example  
 **[Ch. 3 DFT fundamentals ](./example/Ch.3_DFT_fundamentals.ipynb)**  
 **[Ch. 4 Scalar diffraction and propagation solutions](./example/Ch.4_Scalar_diffraction_and_propagation_solutions.ipynb)**  
