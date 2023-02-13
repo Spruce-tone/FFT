@@ -1,6 +1,6 @@
 # Scalar diffraction theory tutorial
 
-This repository is a pthon tutorial on scalar diffraction theory, and it is based on the book `Computational Fourier Optics: A MATLAB Tutorial" by David Voelz`
+This repository is intended for creating a solution manual and translating programming code from MATLAB to Python for the textbook "Computational Fourier Optics: A MATLAB Tutorial" by David Voelz, which covers scalar diffraction theory.
 
 ![Airy disk](./images/Airy_disk.PNG)  
 
